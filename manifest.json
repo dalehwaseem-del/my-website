@@ -1,0 +1,5 @@
+{
+  "name": "SEHA Offline",
+  "start_url": "./",
+  "display": "standalone"
+}
